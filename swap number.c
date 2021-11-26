@@ -12,7 +12,7 @@ void main()
   a=b;
   b=temp;
 
-  Printf("AFTER THE SWAPPING NUMBER a AND b %d\n %d\n",a, b);
+  Printf("AFTER THE SWAPPING NUMBER a=%d\n AND b=%d\n",a, b);
   return 0;
 }
   
