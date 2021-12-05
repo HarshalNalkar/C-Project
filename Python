@@ -1,0 +1,15 @@
+a=float(input())
+b=float(input())
+
+print('Choice any one \n1 Addition \n2 Substraction \n3 Division \n4 Multipication \n5 No option')
+
+if a==1:
+    print("Addition")
+elif a==2:
+    print("Substraction")
+elif a==3:
+    print("Division") 
+elif a==4:
+    print("Multiplication")
+else :
+    print("No option")
